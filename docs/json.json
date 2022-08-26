@@ -1,0 +1,57 @@
+{
+  "catalogs": [
+    {
+      "conditions": "Предложения действительны для Москвы, Переславль-Залесского и Костромской области. Информацию об ассортименте товаров, участвующих в акции, уточняйте в магазине. Количество товаров ограничено, не является публичной офертой.",
+      "date_end": "2020-06-12T23:59:59+03:00",
+      "date_start": "2020-06-05T00:00:00+03:00",
+      "id": "1234",
+      "image": "https://retailer1234.ru/catalogs/1234.jpg",
+      "is_main": true,
+      "offers": [
+        "11111",
+        "22222",
+        "33333"
+      ],
+      "target_regions": [
+        "Россия, Москва",
+        "Россия, Ярославская область, Переславль-Залесский",
+        "Россия, Костромская область, Островский район, село Адищево"
+      ]
+    }
+  ],
+  "offers": [
+    {
+      "barcode": "7501031311309",
+      "date_end": "2020-06-10T23:59:59+03:00",
+      "date_start": "2020-06-05T00:00:00+03:00",
+      "description": "Молоко \"Домик в деревне\" 3,2% 0,93 л*При покупке 1 шт. - вторая в подарок",
+      "discount_label": "1+1",
+      "id": "11111",
+      "image": "https://retailer1234.ru/offers/1234567.jpg",
+      "price_is_from": false,
+      "price_new": 50,
+      "price_old": 100,
+      "url": "https://retailer1234.ru/offers/1234567.html"
+    },
+    {
+      "barcode": "3113097501031",
+      "description": "Огурцы маринованные \"Дядя Ваня\" 680 г",
+      "id": "22222",
+      "image": "https://retailer1234.ru/offers/5671234.jpg",
+      "price_is_from": false,
+      "price_new": 70,
+      "price_old": 75,
+      "url": "https://retailer1234.ru/offers/5671234.html"
+    },
+    {
+      "barcode": "1097501031133",
+      "description": "Жевательная резинка Orbit в ассортименте",
+      "id": "33333",
+      "image": "https://retailer1234.ru/offers/10488.jpg",
+      "price_is_from": true,
+      "price_new": 10,
+      "url": "https://retailer1234.ru/offers/10488.html"
+    }
+  ],
+  "version": 2
+}
